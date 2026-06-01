@@ -59,7 +59,7 @@ export default function AnalyzerPage() {
             <motion.div key="load" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
               className="flex flex-col items-center justify-center h-full gap-4 text-muted">
               <Loader2 size={40} className="animate-spin text-accent2" />
-              <p className="text-sm">Gemini is scoring your resume…</p>
+              <p className="text-sm">GROK is scoring your resume…</p>
             </motion.div>
           )}
 

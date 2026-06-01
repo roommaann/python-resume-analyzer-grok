@@ -31,7 +31,7 @@ export default function Navbar() {
       </nav>
 
       <span className="text-xs px-3 py-1 rounded-full border border-green-500/30 bg-green-500/10 text-green-400 font-medium">
-        ✦ Gemini Free
+        ✦ GROK
       </span>
     </header>
   )
